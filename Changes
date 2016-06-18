@@ -1,5 +1,12 @@
 Revision history for Bencher-Scenarios-PERLANCARParseArithmetic
 
+0.003   2016-06-18 (PERLANCAR)
+
+	- Add participant: NoHash.
+
+	- [dist] Enable sample benchmark of module startup overhead.
+
+
 0.002   2016-06-18 (PERLANCAR)
 
 	- Add Marpa version as participant.
