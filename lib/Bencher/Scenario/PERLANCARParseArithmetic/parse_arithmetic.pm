@@ -14,6 +14,9 @@ our $scenario = {
         {
             fcall_template => 'PERLANCAR::Parse::Arithmetic::Marpa::parse_arithmetic(<expr>)',
         },
+        {
+            fcall_template => 'PERLANCAR::Parse::Arithmetic::NoHash::parse_arithmetic(<expr>)',
+        },
     ],
     datasets => [
         {
