@@ -1,4 +1,4 @@
-0.006   2017-01-25 (PERLANCAR)
+0.006   2017-01-25  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -7,28 +7,28 @@
           type=x_benchmarks.
 
 
-0.005   2016-06-18 (PERLANCAR)
+0.005   2016-06-18  Released-By: PERLANCAR
 
 	- Add participant: Pegex version.
 
 
-0.004   2016-06-18 (PERLANCAR)
+0.004   2016-06-18  Released-By: PERLANCAR
 
 	- Add longer datasets.
 
 
-0.003   2016-06-18 (PERLANCAR)
+0.003   2016-06-18  Released-By: PERLANCAR
 
 	- Add participant: NoHash.
 
 	- [dist] Enable sample benchmark of module startup overhead.
 
 
-0.002   2016-06-18 (PERLANCAR)
+0.002   2016-06-18  Released-By: PERLANCAR
 
 	- Add Marpa version as participant.
 
 
-0.001   2016-06-16 (PERLANCAR)
+0.001   2016-06-16  Released-By: PERLANCAR
 
         - First release.
