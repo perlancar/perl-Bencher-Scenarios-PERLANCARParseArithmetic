@@ -2,3 +2,4 @@ Bencher-Scenarios-PERLANCARParseArithmetic-*
 .build
 *~
 nytprof*
+.DS_Store
